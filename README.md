@@ -40,15 +40,11 @@
 </p>
 
 ## 📊 Github Stats
-
-
-<p align="center">
-  <a href="https://github.com/NevigChanuka">
-    <img src="https://github-readme-stats.vercel.app/api?username=NevigChanuka&layout=compact&langs_count=1&theme=radical"  height="200" alt="Nevig Chanuka's GitHub Stats" />
-  </a>
-  <a href="https://github.com/NevigChanuka">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevigChanuka&layout=compact&langs_count=10&theme=radical" height="200" alt="Top Languages" />
-  </a>
-</p>
+<a href="https://github.com/NevigChanuka">
+  <img src="https://github-readme-stats.vercel.app/api?username=NevigChanuka&layout=compact&langs_count=1&theme=radical"  height="200" alt="Nevig Chanuka's GitHub Stats" />
+</a>
+<a href="https://github.com/NevigChanuka">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevigChanuka&layout=compact&langs_count=10&theme=radical" height="200" alt="Top Languages" />
+</a>
 
 
