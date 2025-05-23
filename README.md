@@ -74,7 +74,7 @@
 
 ### Operating systems
 
-</p>
+<p>
   <img src="https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 7">
   <img src="https://img.shields.io/badge/Windows%208.1-00BCF2?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 8.1">
   <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10">
